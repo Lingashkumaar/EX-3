@@ -1,0 +1,32 @@
+body
+{ font: normal .80em 'trebuchet ms', arial, sans-serif;
+font-size: 16px;}
+
+.navhover:hover{
+    color: #FA057E !important;
+    background-color: rgb(232, 232, 232) !important;
+}
+.active{
+    color: #FA057E !important;
+    background-color: rgb(232, 232, 232) !important; 
+}
+
+/* .nav-footer{
+
+    width: 18%;
+    margin-left: 30%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 5px !important;
+    
+}
+.nav-footer>a>i{
+    color: #FA057E !important;
+} */
+.title-wel{
+   text-align: center;
+}
+.space>div>p{
+    letter-spacing: 0.9 px;
+}
